@@ -1,6 +1,6 @@
 blueprint:
-  name: ROBB ROB_200-007-0 general use
-  description: "This blueprint is for the ROBB ROB_200-007-0 dimmer switch when used with zigbee2mqtt.
+  name: EcoDim 10014 or Robb_200-007 8-Button switch
+  description: "This blueprint is for the EcoDim ED-10014 or ROBB ROB_200-007-0 dimmer switch when used with zigbee2mqtt.
   It is for genral use so all buttons can be connected to any action of your choice.
   Make sure to select the correct sensor for the remote."
   domain: automation
